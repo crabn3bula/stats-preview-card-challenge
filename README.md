@@ -1,0 +1,1 @@
+# My attempt to solve [stats preview card challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-vapzzlzUC) by [frontendmentor](https://www.frontendmentor.io/).
